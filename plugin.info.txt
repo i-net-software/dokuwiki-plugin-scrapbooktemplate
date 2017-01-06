@@ -1,0 +1,7 @@
+base   scrapbooktemplate
+author i-net software / Gerry Weißbach
+email  tool@inetsoftware.de
+date   2017-01-06
+name   scrapbooktemplate plugin
+desc   Extension for the scrapbook plugin which replaces all page template variables before the template is inserted
+url    https://github.com/i-net-software/dokuwiki-plugin-scrapbooktemplate
